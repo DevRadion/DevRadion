@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Radion
 - 👀 I’m interested in Swift, Go
-- 🌱 I’m currently learning Quantum Physics, Swift, IOS Development 
 - 📫 How to reach me - https://t.me/radionru
 
 <!---
