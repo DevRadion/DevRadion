@@ -1,8 +1,1 @@
-- 👋 Hi, I’m Radion
-- 👀 I’m interested in Swift, Go
-- 📫 How to reach me - https://t.me/radionru
-
-<!---
-DevRadion/DevRadion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/radion"><img src="https://api.daily.dev/devcards/v2/cwsxQdDh6lz41r3wzXF6K.png?type=default&r=ude" width="356" alt="Radion Rusnak's Dev Card"/></a>
